@@ -49,7 +49,17 @@ The project follows Clean Architecture principles to ensure scalability, testabi
 ### Project Structure
 
 ```
-lib/ ├── data/ │ ├── dataproviders/ # Raw SQLite database logic │ ├── models/ # Data models (Lead) │ └── repositories/ # Repository pattern implementation ├── logic/ │ └── bloc/ # BLoC (Lead logic) and Cubit (Theme logic) ├── presentation/ │ ├── screens/ # Full application screens │ └── widgets/ # Reusable UI components └── main.dart # Entry point and Dependency Injection
+lib/ 
+├── data/
+│   ├── dataproviders/ # Raw SQLite database logic 
+│   ├── models/ # Data models (Lead) 
+│   └── repositories/ # Repository pattern implementation 
+├── logic/ 
+│   └── bloc/ # BLoC (Lead logic) and Cubit (Theme logic) 
+├── presentation/ 
+│   ├── screens/ # Full application screens 
+│   └── widgets/ # Reusable UI components 
+└── main.dart # Entry point and Dependency Injection
 ```
 
 ## How to Run
