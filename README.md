@@ -1,5 +1,11 @@
 # LeadFlow - Mini Lead Management App
 
+**📲 Download & Run Immediately:**
+You do not need to set up Flutter to test this application.
+**[Click here to download the Release APK](./LeadFlow.apk)** to your Android device.
+
+---
+
 A robust, offline-first CRM application built with Flutter and SQLite. Designed to manage sales leads efficiently with features like status filtering, search, and theme persistence.
 
 Built as a submission for the Flutter Internship Assignment.
