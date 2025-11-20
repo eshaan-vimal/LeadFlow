@@ -75,7 +75,7 @@ lib/
 
 2.  **Clone the repository**
     ```
-    git clone [YOUR_REPO_LINK_HERE]
+    git clone https://github.com/eshaan-vimal/LeadFlow
     ```
 
 3.  **Install Dependencies**
