@@ -10,6 +10,10 @@ A robust, offline-first CRM application built with Flutter and SQLite. Designed 
 
 Built as a submission for the Flutter Internship Assignment.
 
+## App Demo
+
+https://github.com/user-attachments/assets/2ccc5e95-4193-4786-9c53-f4db1b0fdead
+
 ## App Overview
 
 LeadFlow allows users to track potential clients through a sales pipeline. It features a clean, responsive UI that adheres to Material 3 design principles.
